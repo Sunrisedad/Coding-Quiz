@@ -18,3 +18,6 @@
 * THEN the game is over
 * WHEN the game is over
 * THEN I can save my initials and score
+
+
+![Capture](https://user-images.githubusercontent.com/84816623/129595325-15fe342c-5ff7-4207-a222-92279887d999.PNG)
