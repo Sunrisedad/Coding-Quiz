@@ -1,0 +1,39 @@
+h1 {
+    padding: 20px 35px;
+    background-color: #9fa0a3;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 55px;
+    color: white;
+}
+
+.page-content {
+    font-size: 44px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #024e76;
+    border-bottom: 3px solid;
+    border-color: #849974;
+    padding-bottom: 20px;
+    text-align: center;
+    margin: 0 auto 35px auto;
+    width: 50%;
+    display: flex;
+}
+
+.btn {
+    width: 35%;
+    border: none;
+    background: #1cd32b;
+    color: white;
+    text-align: center;
+    padding: 15px 0;
+    font-size: 16px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.hidden {
+    display: none;
+}
